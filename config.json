@@ -1,0 +1,8 @@
+{
+    "local": {
+        "BASE_URI": "http://localhost:8080"
+    },
+    "production": {
+        "BASE_URI": "https://restaurant-bot-34-java.herokuapp.com"
+    }
+}

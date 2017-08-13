@@ -1,0 +1,16 @@
+{
+  "name": "rest-bot-node",
+  "version": "1.0.0",
+  "description": "Restaurant bot",
+  "main": "app.js",
+  "scripts": {
+    "start":"NODE_ENV=production node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+    "dependencies": {
+    "botbuilder": "^3.9.0",
+    "restify": "^4.3.0"
+  }
+}
